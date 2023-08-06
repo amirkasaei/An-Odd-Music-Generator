@@ -5,6 +5,9 @@ Music generater with Denoising Auto encoder
 **Project name: An Odd Music Generator using Keras**
 
   the project has 4 main parts which should be done in a loop to generate the output song:
+  
+  <div align="center"><img src="https://github.com/amirkasaei/RNN-An-Odd-Music-Generator/blob/main/steps.png?raw=true" width="70%" /></div>
+  
   1) Denoising:
     During the performance, the musician must pay full attention to the sound of the music and must not allow noise and
     the sound of crowd cheering (!) destroys his concentration.
