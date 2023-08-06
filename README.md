@@ -1,5 +1,5 @@
 # An-Odd-Music-Generator
-Music generater with Denoising Auto encoder and NLP
+Music generater with Denoising Auto encoder
 
 # Description
 **Project name: An Odd Music Generator using Keras**
