@@ -1,4 +1,4 @@
-# NLP-An-Odd-Music-Generator
+# An-Odd-Music-Generator
 Music generater with Denoising Auto encoder and NLP
 
 # Description
