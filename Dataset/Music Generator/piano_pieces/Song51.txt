@@ -1,0 +1,1 @@
+C_maj_4_0 / G_min_7_1 / C_maj_7_0 / D_min_5_0 / E_min_6_0 / Bb_maj_6_0 / C_maj_5_0 / D_min_4_0 / G_min_2_1 / D_min_4_0 / Cs_dim_3_0 / D_dim_2_1 / A_maj_5_1 / D_min_4_0 / Eb_maj_4_0 / D_maj_4_0 / Eb_maj_6_1 / G_min_5_0 / A_min_4_0 / G_min_5_1 / A_min_6_1 / D_min_4_0 / G_min_3_0 / Bb_maj_5_1 / A_min_2_1 / F_maj_6_1 / G_min_4_0

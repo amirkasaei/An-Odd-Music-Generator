@@ -1,0 +1,1 @@
+A_maj_2_0 / B_dim_5_0 / A_maj_4_1 / B_dim_7_0 / A_maj_4_1 / D_maj_5_0 / G_maj_7_1 / Bb_dim_2_0 / D_maj_3_0 / G_maj_4_0 / Bb_dim_2_0 / D_maj_2_1 / B_maj_6_1 / Fs_min_7_1 / E_maj_4_0 / A_maj_5_1 / D_maj_5_1 / Fs_min_2_0 / E_maj_3_0 / A_maj_7_0 / A_maj_4_1 / B_dim_7_1 / A_maj_7_0 / D_maj_7_1 / B_dim_4_1 / A_maj_6_1
