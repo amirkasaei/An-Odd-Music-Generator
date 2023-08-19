@@ -1,8 +1,8 @@
 # An-Odd-Music-Generator
 Music generater with Denoising Auto encoder
 
-# Description
-**Project name: An Odd Music Generator using Keras**
+## Description
+**Project name: An Odd Music Generator**
 
   the project has 4 main parts which should be done in a loop to generate the output song:
   
@@ -24,7 +24,7 @@ Music generater with Denoising Auto encoder
     Naturally, since the crowd in the hall is not covered in pleasure, during the performance
     classical music with hands and whistles encourage your music production.
   
-# Dataset
+## Dataset
 the dataset contains three parts:
 1) notes
 2) noises
@@ -33,9 +33,9 @@ the dataset contains three parts:
     
 Neural Network models implemented by Keras in Tensorflow library.
 
-# Team members
+## Team members
 
-Seyed Amir Kasaei     
-Amir mohmmad Ezzati   
+- Amir Kasaei     
+- Amir Ezzati   
   
 **This project was a pair work that we wrote as final project of Deep Learning course at University of Guilan in May 2022.**
